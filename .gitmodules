@@ -1,5 +1,5 @@
-[submodule "vim/autoload/pathogen.vim"]
-	path = vim/autoload/pathogen.vim
+[submodule "vim/autoload/vim-pathogen"]
+	path = vim/autoload/vim-pathogen
 	url = git://github.com/tpope/vim-pathogen.git
 [submodule "vim/bundle/IndentAnything"]
 	path = vim/bundle/IndentAnything
