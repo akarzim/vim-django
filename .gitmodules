@@ -1,0 +1,54 @@
+[submodule "vim/autoload/pathogen.vim"]
+	path = vim/autoload/pathogen.vim
+	url = git://github.com/tpope/vim-pathogen.git
+[submodule "vim/bundle/IndentAnything"]
+	path = vim/bundle/IndentAnything
+	url = git://github.com/vim-scripts/IndentAnything.git
+[submodule "vim/bundle/Python-Syntax-Folding"]
+	path = vim/bundle/Python-Syntax-Folding
+	url = git://github.com/vim-scripts/Python-Syntax-Folding.git
+[submodule "vim/bundle/The-NERD-tree"]
+	path = vim/bundle/The-NERD-tree
+	url = git://github.com/vim-scripts/The-NERD-tree.git
+[submodule "vim/bundle/minibufexpl.vim"]
+	path = vim/bundle/minibufexpl.vim
+	url = git://github.com/fholgado/minibufexpl.vim.git
+[submodule "vim/bundle/netrw.vim"]
+	path = vim/bundle/netrw.vim
+	url = git://github.com/vim-scripts/netrw.vim.git
+[submodule "vim/bundle/pyflakes-vim"]
+	path = vim/bundle/pyflakes-vim
+	url = git://github.com/kevinw/pyflakes-vim.git
+[submodule "vim/bundle/pylint.vim"]
+	path = vim/bundle/pylint.vim
+	url = git://github.com/vim-scripts/pylint.vim.git
+[submodule "vim/bundle/python.vim"]
+	path = vim/bundle/python.vim
+	url = git://github.com/vim-scripts/python.vim.git
+[submodule "vim/bundle/python_match.vim"]
+	path = vim/bundle/python_match.vim
+	url = git://github.com/vim-scripts/python.vim.git
+[submodule "vim/bundle/pythoncomplete"]
+	path = vim/bundle/pythoncomplete
+	url = git://github.com/vim-scripts/pythoncomplete.git
+[submodule "vim/bundle/taglist.vim"]
+	path = vim/bundle/taglist.vim
+	url = git://github.com/vim-scripts/taglist.vim.git
+[submodule "vim/bundle/vim-colors-solarized"]
+	path = vim/bundle/vim-colors-solarized
+	url = git://github.com/altercation/vim-colors-solarized.git
+[submodule "vim/bundle/vim-fugitive"]
+	path = vim/bundle/vim-fugitive
+	url = git://github.com/tpope/vim-fugitive.git
+[submodule "vim/bundle/vim-javascript"]
+	path = vim/bundle/vim-javascript
+	url = git://github.com/pangloss/vim-javascript.git
+[submodule "vim/bundle/vim-jquery"]
+	path = vim/bundle/vim-jquery
+	url = git://github.com/itspriddle/vim-jquery.git
+[submodule "vim/bundle/vim-less"]
+	path = vim/bundle/vim-less
+	url = git://github.com/lunaru/vim-less.git
+[submodule "vim/bundle/vim-surround"]
+	path = vim/bundle/vim-surround
+	url = git://github.com/tpope/vim-surround.git
