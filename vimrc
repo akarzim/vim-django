@@ -9,7 +9,7 @@ syntax enable
 let g:pathogen_disabled = []
 "call add(g:pathogen_disabled, 'IndentAnything')
 call add(g:pathogen_disabled, 'Python-Syntax-Folding')
-"call add(g:pathogen_disabled, 'The-NERD-tree')
+call add(g:pathogen_disabled, 'The-NERD-tree')
 call add(g:pathogen_disabled, 'minibufexpl.vim')
 "call add(g:pathogen_disabled, 'bufexpl.vim')
 "call add(g:pathogen_disabled, 'netrw.vim')
