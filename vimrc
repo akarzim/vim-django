@@ -48,10 +48,13 @@ set statusline=%F%m%r%h%w%10{getfsize(expand('%'))}o\ \ \ [FORMAT=%{&ff}]\ [TYPE
 set shiftwidth=4
 set t_Co=256
 set tabstop=4                        " tabulation sur 4 caractères
+set tags+=gems.tags
 set wildcharm=<C-Z>
 set wildmenu
 
-map <F9> :emenu <C-Z>
+"map <F9> :emenu <C-Z>
+
+map <F9> :%s/^\d/,&<CR><C-O>qaD3@="3)P0D"<CR>6(p+q9@aVGgJZZ
 
 " Toggle line numbers and fold column for easy copying:
 nnoremap <F2> :set nonumber!<CR>:set foldcolumn=0<CR>
